@@ -1,5 +1,4 @@
-1. repository
+hello 123
 
-2. commit
-point in time record
+my name is lee
 
